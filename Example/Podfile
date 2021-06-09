@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZTMenuPopView_Example' do
+  pod 'ZTMenuPopView', :path => '../'
+
+  target 'ZTMenuPopView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
