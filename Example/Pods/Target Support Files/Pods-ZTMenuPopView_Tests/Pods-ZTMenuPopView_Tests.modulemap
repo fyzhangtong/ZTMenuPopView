@@ -1,0 +1,6 @@
+framework module Pods_ZTMenuPopView_Tests {
+  umbrella header "Pods-ZTMenuPopView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

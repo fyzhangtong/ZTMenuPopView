@@ -1,0 +1,16 @@
+PODS:
+  - ZTMenuPopView (0.1.0)
+
+DEPENDENCIES:
+  - ZTMenuPopView (from `../`)
+
+EXTERNAL SOURCES:
+  ZTMenuPopView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTMenuPopView: 00d37ae71e13ebc13b86044ebc838c179971a3da
+
+PODFILE CHECKSUM: e6e50c860a56f0f36abdf06e462390ebfe1f8302
+
+COCOAPODS: 1.10.1
